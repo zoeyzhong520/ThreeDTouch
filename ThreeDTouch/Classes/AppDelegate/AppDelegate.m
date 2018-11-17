@@ -9,7 +9,6 @@
 #import "AppDelegate.h"
 #import "MainTabViewController.h"
 #import "UIViewController+Category.h"
-#import "RootViewController.h"
 
 @interface AppDelegate ()
 
